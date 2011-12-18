@@ -9,7 +9,7 @@
   <project path="lib/json-pull-parser"
            name="vvakame/JsonPullParser.git" remote="origin" />
 
-  <project path="apps/claudia_for_android"
-           name="zaki50/ClaudiaVoiceForAndroid.git" remote="origin" />
+  <project path="apps/twicca_megane_plugin"
+           name="zaki50/TwiccaMeganePlugin.git" remote="origin" />
 
 </manifest>
