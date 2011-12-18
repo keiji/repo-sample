@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+
+  <project path="lib/plist-lib"
+           name="keiji/AndroidPListLib.git" remote="origin" />
+
+  <project path="lib/json-pull-parser"
+           name="vvakame/JsonPullParser.git" remote="origin" />
+
+  <project path="apps/claudia_for_android"
+           name="zaki50/ClaudiaVoiceForAndroid.git" remote="origin" />
+
+</manifest>
